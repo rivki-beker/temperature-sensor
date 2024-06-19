@@ -1,6 +1,5 @@
 # Temperature Sensor
 
----
 
 ## Project Overview
 This project monitors extreme temperatures of objects using sensors. When a proximity sensor detects an object, it measures its temperature. If the temperature is within normal limits, an LED lights up. If the temperature is extreme (hot or cold), the LED blinks accordingly.
@@ -54,5 +53,3 @@ This project monitors extreme temperatures of objects using sensors. When a prox
 ## HC-SR04 Distance Sensor
 - Uses ultrasonic waves to measure distance.
 - Calculation formula provided for distance measurement.
-
----
