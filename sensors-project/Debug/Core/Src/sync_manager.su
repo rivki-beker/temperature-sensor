@@ -1,0 +1,7 @@
+../Core/Src/sync_manager.c:8:6:init_mutex	8	static
+../Core/Src/sync_manager.c:13:6:take_temp	8	static
+../Core/Src/sync_manager.c:16:6:take_dis	8	static
+../Core/Src/sync_manager.c:19:6:take_status	8	static
+../Core/Src/sync_manager.c:23:6:give_temp	8	static
+../Core/Src/sync_manager.c:26:6:give_dis	8	static
+../Core/Src/sync_manager.c:29:6:give_status	8	static

@@ -1,0 +1,6 @@
+../Core/Src/led_control.c:10:6:init_led	1
+../Core/Src/led_control.c:14:6:led_on	1
+../Core/Src/led_control.c:17:6:led_off	1
+../Core/Src/led_control.c:20:6:led_blink	1
+../Core/Src/led_control.c:26:6:led_pwm	2
+../Core/Src/led_control.c:36:6:pwmSetValue	1

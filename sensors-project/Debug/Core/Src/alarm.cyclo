@@ -1,0 +1,5 @@
+../Core/Src/alarm.c:13:6:init_alarm	1
+../Core/Src/alarm.c:17:6:calc_status_led	4
+../Core/Src/alarm.c:45:6:turn_on_by_status	6
+../Core/Src/alarm.c:69:6:task_measure_calc	1
+../Core/Src/alarm.c:78:6:task_measure_turn_on	1
